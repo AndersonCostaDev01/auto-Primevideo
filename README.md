@@ -2,7 +2,7 @@
 
 ## 1. Preparação Inicial
 
-- Copie a pasta completa chamada `Dist` para um local de sua preferência.
+- Copie a pasta completa `Que acabou de baixar` para um local de sua preferência.
 - Dentro desta pasta, localize e execute o arquivo `main.exe`.
 
 > ⚠️ É normal que seu antivírus realize uma verificação. Apenas aguarde a finalização do processo.
