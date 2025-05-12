@@ -1,0 +1,24 @@
+A seguir o passo a passo para execução do projeto
+
+Primeiro pegue a pasta completa "Dist" e coloque onde achar mais conveniente, dentro desta pasta existe o main.exe que deverá ser executado.
+
+Muito provavelmente seu antivirus vai fazer uma verificação e isso e normal, apenas aguarde ele finalizar.
+
+Agora basta clicar em selecionar arquivos e pegar o arquivo .xlsx que contem duas colunas 
+
+    1. usuario
+    2. senha
+
+Que devem estar escritos desta forma exata para funcionar corretamente.
+
+Agora so esperar que a automação ira fazer tudo sosinha e ira gerar dois arquivos na pasta do projeto. 
+
+    1. logins_sucessos.xlsx
+    2. logins_falhas.xlsx
+
+Onde estes arquivos conteram os login bem sucedidos e os login falhados respectivamente.
+
+Prerequisitos:
+
+    1. Navegador Google Chrome
+    2. Driver do navegador Google Chrome
